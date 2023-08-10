@@ -21,4 +21,4 @@
 - 企業會員管理
 
 ## 補充連結
-- [影片展示](https://www.youtube.com/watch?v=FMN8VVAX7E8&t=1260s&ab_channel=%E7%B7%AF%E8%82%B2TibaMe)
+- [影片展示](https://www.youtube.com/watch?v=FMN8VVAX7E8&t=1260s&ab_channel=%E7%B7%AF%E8%82%B2TibaMe) （23:30 開始）
